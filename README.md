@@ -1,1 +1,1 @@
-# projects-ML
+# project breast-cancer-wisconsin
